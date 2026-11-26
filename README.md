@@ -26,6 +26,10 @@ Também construí um **Auditor de Fotos IA**: pipeline que valida 800+ fotos por
 
 <!--old `Python` `YOLO` `ONNX` `LLMs` `TypeScript` `React` `Node` `PHP/Laravel` `SQL` `Linux` `Docker` `Cloudflare` -->
 
+### Formação
+- Engenharia de Software · UniAmérica Descomplica (em andamento)
+- Análise e Desenvolvimento de Sistemas · SENAI (2025)
+
 ### Onde me achar
 [antunovisk.com.br](https://antunovisk.com.br) · [LinkedIn](https://www.linkedin.com/in/ryan-antunes-212b013a9/)
 
