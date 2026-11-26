@@ -4,6 +4,9 @@
 
 Levo IA e automação do protótipo para a operação real: apps de campo, painéis, automações e visão computacional, do primeiro desenho até produção.
 
+<p align="center"><img src="img/marata-logo.png" width="420" alt="Maratá"></p>
+<p align="center"><b>Sistemas de campo e IA em operação para a Maratá</b></p>
+
 ### Projetos em produção
 
 | | |
