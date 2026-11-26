@@ -1,8 +1,8 @@
 # Ryan Antunes
 
-**Arquiteto de soluções · IA aplicada e visão computacional** · Aracaju, SE
+**Arquitetura de Software · Infra & DevOps · IA/ML (Visão Computacional, LLMs)** · Aracaju, SE
 
-Levo IA e automação do protótipo para a operação real: apps de campo, painéis, automações e visão computacional, do primeiro desenho até produção.
+Projeto e opero sistemas de ponta a ponta: arquitetura, servidores Linux, containers, CI/CD, bancos de dados e modelos de IA em produção. Do primeiro desenho ao monitoramento.
 
 <p align="center"><img src="img/marata-logo.png" width="420" alt="Maratá"></p>
 <p align="center"><b>Sistemas de campo e IA em operação para a Maratá</b></p>
@@ -20,7 +20,11 @@ Levo IA e automação do protótipo para a operação real: apps de campo, pain�
 Também construí um **Auditor de Fotos IA**: pipeline que valida 800+ fotos por dia, e só as exceções vão para um humano.
 
 ### Stack
-`Python` `YOLO` `ONNX` `LLMs` `TypeScript` `React` `Node` `PHP/Laravel` `SQL` `Linux` `Docker` `Cloudflare`
+**Infra & DevOps:** `Linux` `Docker` `Nginx` `Cloudflare (Workers, Tunnels)` `AWS` `CI/CD` `Homelab`  
+**IA/ML:** `Python` `YOLO` `ONNX` `LLMs` `RAG` `Pipelines de visão`  
+**Back & Front:** `TypeScript` `Node` `React` `PHP/Laravel` `Postgres` `MySQL` `SQLite`
+
+<!--old `Python` `YOLO` `ONNX` `LLMs` `TypeScript` `React` `Node` `PHP/Laravel` `SQL` `Linux` `Docker` `Cloudflare` -->
 
 ### Onde me achar
 [antunovisk.com.br](https://antunovisk.com.br) · [LinkedIn](https://www.linkedin.com/in/ryan-antunes-212b013a9/)
